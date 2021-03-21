@@ -1,0 +1,8 @@
+.cart-button {
+  background-color: cadetblue;
+  color: white;
+  padding: 10px;
+}
+.goods-list {
+    display: flex;
+}
